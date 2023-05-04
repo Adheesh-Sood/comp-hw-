@@ -1,0 +1,38 @@
+
+.scamTest , h1{
+  font-family:monospace;
+  font-size:40px;
+  border-bottom:2px solid #000;
+  width:500px;
+}
+h2{
+  font-family:monospace;
+
+}
+.main{
+  border-radius:12px;
+  border:3px solid #000;
+  width:650px;
+}
+button{
+  background:transparent;
+  border:2px solid #000;
+  font-family: monospace;
+  font-size: 35px;
+  border-radius: 12px;
+  cursor:pointer;
+
+}
+img{
+  width:500px;
+  height: 500px;
+}
+.scamImg{
+  border-radius:12px;
+  width:770px;
+  border:3px solid #000;
+}
+button:hover{
+  color:#fff;
+  background:#000;
+}
